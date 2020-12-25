@@ -13,7 +13,7 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'BOT ./Brokenz'; // Nama Bot Whatsapp
-const instagramlu = 'https://www.instagram.com/mrg3p5_id/'; // Brokenzreal
+const instagramlu = 'https://www.instagram.com/brokenzreal/'; // Brokenzreal
 const whatsapplu = '085893228346'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Pukul 09.00-21.00 WIB'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/L0jifxElwo6B2QyxuabLtU'; // OFFICIAL GRUP LU 1
